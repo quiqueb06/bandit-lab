@@ -118,3 +118,5 @@ base64 -d data.txt
 
 Contraseña obtenida:
 dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+
+.
